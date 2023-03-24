@@ -1,7 +1,5 @@
 # **Lyft Back-End Engineering**
 
-## virtual-experience
- -www.theforage.com
 ## Concepts Covered 
 
 - UML Diagrams
@@ -19,7 +17,7 @@
 ## virtual-experience
 
 ![Certificate](./asset/lyft_certificate.png)
-
+ - www.theforage.co
 
 ## Author
 
